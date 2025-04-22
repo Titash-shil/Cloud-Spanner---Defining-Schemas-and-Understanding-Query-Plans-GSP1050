@@ -10,11 +10,11 @@
  - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Compute-Engine-Qwik-Start---Windows-GSP093/refs/heads/main/qwiklab_explorers_gsp093.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Cloud-Spanner---Defining-Schemas-and-Understanding-Query-Plans-GSP1050/refs/heads/main/qwiklab_explorers_gsp1050.sh
 
-sudo chmod +x qwiklab_explorers_gsp093.sh
+sudo chmod +x qwiklab_explorers_gsp1050.sh
 
-./qwiklab_explorers_gsp093.sh
+./qwiklab_explorers_gsp1050.sh
 ```
 
 ---
